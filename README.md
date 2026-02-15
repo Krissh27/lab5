@@ -30,7 +30,7 @@
 
 ### 🔹 Face Detection Output
 
-![Face Detection](face_detection.png)
+![Face Detection](face%20detection.png)
 
 ---
 
