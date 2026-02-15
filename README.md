@@ -47,6 +47,14 @@
 
 The template image is plotted in the feature space and classified based on nearest centroid.
 
+## Key Findings
+
+- Hue and Saturation features can group faces based on color similarity.
+- K-Means successfully separates faces into clusters.
+- Template classification works using cluster centroids.
+- However, clustering is based only on color distribution and not identity.
+
+
 
 
 
